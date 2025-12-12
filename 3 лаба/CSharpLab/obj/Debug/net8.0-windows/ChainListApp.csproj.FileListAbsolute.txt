@@ -1,0 +1,14 @@
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\obj\Debug\net8.0-windows\ChainListApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\obj\Debug\net8.0-windows\ChainListApp.AssemblyInfoInputs.cache
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\obj\Debug\net8.0-windows\ChainListApp.AssemblyInfo.cs
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\obj\Debug\net8.0-windows\ChainListApp.csproj.CoreCompileInputs.cache
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\bin\Debug\net8.0-windows\ChainListApp.exe
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\bin\Debug\net8.0-windows\ChainListApp.deps.json
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\bin\Debug\net8.0-windows\ChainListApp.runtimeconfig.json
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\bin\Debug\net8.0-windows\ChainListApp.dll
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\bin\Debug\net8.0-windows\ChainListApp.pdb
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\obj\Debug\net8.0-windows\ChainListApp.dll
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\obj\Debug\net8.0-windows\refint\ChainListApp.dll
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\obj\Debug\net8.0-windows\ChainListApp.pdb
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\obj\Debug\net8.0-windows\ChainListApp.genruntimeconfig.cache
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\obj\Debug\net8.0-windows\ref\ChainListApp.dll

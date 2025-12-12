@@ -1,0 +1,14 @@
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\obj\Debug\net8.0-windows\UniversalPromptSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\obj\Debug\net8.0-windows\UniversalPromptSolution.AssemblyInfoInputs.cache
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\obj\Debug\net8.0-windows\UniversalPromptSolution.AssemblyInfo.cs
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\obj\Debug\net8.0-windows\UniversalPromptSolution.csproj.CoreCompileInputs.cache
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\bin\Debug\net8.0-windows\UniversalPromptSolution.exe
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\bin\Debug\net8.0-windows\UniversalPromptSolution.deps.json
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\bin\Debug\net8.0-windows\UniversalPromptSolution.runtimeconfig.json
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\bin\Debug\net8.0-windows\UniversalPromptSolution.dll
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\bin\Debug\net8.0-windows\UniversalPromptSolution.pdb
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\obj\Debug\net8.0-windows\UniversalPromptSolution.dll
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\obj\Debug\net8.0-windows\refint\UniversalPromptSolution.dll
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\obj\Debug\net8.0-windows\UniversalPromptSolution.pdb
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\obj\Debug\net8.0-windows\UniversalPromptSolution.genruntimeconfig.cache
+D:\mephi_maga\1sem\ТПР\лабы\4 лаба\UniversalPromptApp\obj\Debug\net8.0-windows\ref\UniversalPromptSolution.dll

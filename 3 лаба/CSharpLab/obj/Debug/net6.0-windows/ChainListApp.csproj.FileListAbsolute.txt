@@ -1,0 +1,4 @@
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\obj\Debug\net6.0-windows\ChainListApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\obj\Debug\net6.0-windows\ChainListApp.AssemblyInfoInputs.cache
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\obj\Debug\net6.0-windows\ChainListApp.AssemblyInfo.cs
+D:\mephi_maga\1sem\ТПР\лабы\2 лаба\CSharpLab\obj\Debug\net6.0-windows\ChainListApp.csproj.CoreCompileInputs.cache

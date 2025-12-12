@@ -1,0 +1,14 @@
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\bin\Debug\net9.0\ParallelResearch.exe
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\bin\Debug\net9.0\ParallelResearch.deps.json
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\bin\Debug\net9.0\ParallelResearch.runtimeconfig.json
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\bin\Debug\net9.0\ParallelResearch.dll
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\bin\Debug\net9.0\ParallelResearch.pdb
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\obj\Debug\net9.0\ParallelResearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\obj\Debug\net9.0\ParallelResearch.AssemblyInfoInputs.cache
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\obj\Debug\net9.0\ParallelResearch.AssemblyInfo.cs
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\obj\Debug\net9.0\ParallelResearch.csproj.CoreCompileInputs.cache
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\obj\Debug\net9.0\ParallelResearch.dll
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\obj\Debug\net9.0\refint\ParallelResearch.dll
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\obj\Debug\net9.0\ParallelResearch.pdb
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\obj\Debug\net9.0\ParallelResearch.genruntimeconfig.cache
+D:\mephi_maga\1sem\ТПР\лабы\5 лаба\ParallelResearch\obj\Debug\net9.0\ref\ParallelResearch.dll

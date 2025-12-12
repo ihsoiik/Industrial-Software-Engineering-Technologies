@@ -1,0 +1,14 @@
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\bin\Debug\net6.0\ProducerConsumerModel.exe
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\bin\Debug\net6.0\ProducerConsumerModel.deps.json
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\bin\Debug\net6.0\ProducerConsumerModel.runtimeconfig.json
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\bin\Debug\net6.0\ProducerConsumerModel.dll
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\bin\Debug\net6.0\ProducerConsumerModel.pdb
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\obj\Debug\net6.0\ProducerConsumerModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\obj\Debug\net6.0\ProducerConsumerModel.AssemblyInfoInputs.cache
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\obj\Debug\net6.0\ProducerConsumerModel.AssemblyInfo.cs
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\obj\Debug\net6.0\ProducerConsumerModel.csproj.CoreCompileInputs.cache
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\obj\Debug\net6.0\ProducerConsumerModel.dll
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\obj\Debug\net6.0\refint\ProducerConsumerModel.dll
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\obj\Debug\net6.0\ProducerConsumerModel.pdb
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\obj\Debug\net6.0\ProducerConsumerModel.genruntimeconfig.cache
+D:\mephi_maga\1sem\ТПР\лабы\6 лаба\ProducerConsumerModel\obj\Debug\net6.0\ref\ProducerConsumerModel.dll
