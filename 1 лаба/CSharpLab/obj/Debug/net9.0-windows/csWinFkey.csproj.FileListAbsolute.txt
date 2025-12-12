@@ -1,0 +1,42 @@
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.exe
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.deps.json
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.runtimeconfig.json
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.dll
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.pdb
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.GeneratedMSBuildEditorConfig.editorconfig
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.AssemblyInfoInputs.cache
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.AssemblyInfo.cs
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.csproj.CoreCompileInputs.cache
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.dll
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\refint\csWinFkey.dll
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.pdb
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.genruntimeconfig.cache
+D:\mephi_maga\1 сем\ТПР\мои лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\ref\csWinFkey.dll
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.exe
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.deps.json
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.runtimeconfig.json
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.dll
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.pdb
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.GeneratedMSBuildEditorConfig.editorconfig
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.AssemblyInfoInputs.cache
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.AssemblyInfo.cs
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.csproj.CoreCompileInputs.cache
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.dll
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\refint\csWinFkey.dll
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.pdb
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.genruntimeconfig.cache
+D:\mephi_maga\1 сем\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\ref\csWinFkey.dll
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.exe
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.deps.json
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.runtimeconfig.json
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.dll
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\bin\Debug\net9.0-windows\csWinFkey.pdb
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.GeneratedMSBuildEditorConfig.editorconfig
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.AssemblyInfoInputs.cache
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.AssemblyInfo.cs
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.csproj.CoreCompileInputs.cache
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.dll
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\refint\csWinFkey.dll
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.pdb
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\csWinFkey.genruntimeconfig.cache
+D:\mephi_maga\1sem\ТПР\лабы\1 лаба\CSharpLab\obj\Debug\net9.0-windows\ref\csWinFkey.dll
